@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en" >
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+  {% include template/head.html %}
+  </head>
+
+  <body>
+    <div id="skip-to-content"><a href="#maincontent">Skip to main content</a></div>
+    
+    <div class="d-flex" id="wrapper">
+      <!-- Sidebar-->
+      <div class="flex-shrink-0 p-3 bg-white" id="sidebar-wrapper">
+        
+        <div class="d-flex align-items-center pb-3 mb-3 link-dark text-decoration-none border-bottom">{% if site.title-icon %}{% include icon.html icon=site.title-icon %} {% endif %}{{ site.title }}</div>
+
+        <ul class="list-unstyled ps-0">
+          {% assign nav_pages = site.html_pages | where_exp: 'p','p.nav_order and p.section == nil' | sort: 'nav_order' %}
+          {% for p in nav_pages %}
+          <li class="mb-1">
+            {% if p.section_id %}
+            {% assign p_children = site.html_pages | where: 'section', p.section_id | sort: 'nav_order' %}
+            <button class="btn-toggle align-items-center rounded{% unless page.section == p.section_id or page.section_id == p.section_id %} collapsed{% endunless %}" data-bs-toggle="collapse" data-bs-target="#{{ p.section_id | slugify }}-collapse" aria-expanded="{% if page.section == p.section_id or page.section_id == p.section_id %}true{% else %}false{% endif %}">
+              {{ p.section_id }}
+            </button>
+            <div class="collapse{% if page.section == p.section_id or page.section_id == p.section_id %} show{% endif %}" id="{{ p.section_id | slugify }}-collapse">
+              <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
+                <li><a href="{{ p.url | relative_url }}" class="nav-item link-dark rounded{% if page.url == p.url %} nav-active{% endif %}">{{ p.title }}</a></li>
+                {% for c in p_children %}
+                <li><a href="{{ c.url | relative_url }}" class="nav-item link-dark rounded{% if page.url == p.url %} nav-active{% endif %}">{{ c.title }}</a></li>
+                {% endfor %}
+              </ul>
+            </div>
+            {% else %}
+            <a href="{{ p.url | relative_url }}" class="nav-item link-dark rounded {% if page.url == p.url %} nav-active{% endif %}">{{ p.title }}</a>
+            {% endif %}
+          </li>
+          {% endfor %}
+          
+        </ul>
+
+      </div>
+
+      <!-- Page content wrapper-->
+      <div id="page-content-wrapper">
+        <div class="container-fluid">
+
+          <!-- Top navigation -->
+          <nav aria-label="breadcrumb" class="mt-2 mb-3">
+            <ol class="breadcrumb h4">
+              <li class="breadcrumb-item">
+                <button class="border rounded" id="sidebarToggle" title="Toggle Sidebar"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi" viewBox="0 0 16 16">
+                <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/>
+                </svg></button>
+              </li>
+              <li class="breadcrumb-item "><a href="{{ '/' | relative_url }}">{{ site.title }}</a></li>
+              {% if page.section or page.section_id %}<li class="breadcrumb-item">{{ page.section | default: page.section_id }}</li>{% endif %}
+              <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
+            </ol>
+          </nav>
+
+          <!-- Page content-->
+          <main id="maincontent" role="main" aria-label="Content">
+            <div class="px-5 py-2">
+            {{ content }}
+            </div>
+          </main>
+          
+          <!-- footer -->
+          {% include template/footer.html %}
+
+        </div>
+      </div>
+    </div>
+
+    {% include template/foot.html %}
+
+  </body>
+
+</html>

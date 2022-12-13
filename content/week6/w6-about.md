@@ -2,7 +2,7 @@
 section_id: Week 6
 nav_order: 8
 title: About this Week
-topics: Week 6
+topics: Week 6, Metadata Foundations, Cataloging
 ---
 
 [Markdown](https://daringfireball.net/projects/markdown/) is a standard to [simplify writing](https://evanwill.github.io/_drafts/notes/writing-markdown.html) content for the web. 

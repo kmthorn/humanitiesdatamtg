@@ -2,7 +2,7 @@
 section_id: Week 3
 nav_order: 5
 title: About this Week
-topics: Week 3
+topics: Week 3, Data Collection, Storage, Security and Privacy, Digital Special Collections and Archives
 ---
 
 [Markdown](https://daringfireball.net/projects/markdown/) is a standard to [simplify writing](https://evanwill.github.io/_drafts/notes/writing-markdown.html) content for the web. 

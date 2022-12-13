@@ -2,7 +2,7 @@
 section_id: Week 2
 nav_order: 4
 title: About this Week
-topics: Week 2
+topics: Week 2, Data Management Planning
 ---
 
 [Markdown](https://daringfireball.net/projects/markdown/) is a standard to [simplify writing](https://evanwill.github.io/_drafts/notes/writing-markdown.html) content for the web. 

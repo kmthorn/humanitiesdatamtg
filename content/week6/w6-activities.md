@@ -3,7 +3,6 @@ section: Week 6
 section_id: Week 6
 nav_order: 3
 title: Activities
-topics: Week 6
 ---
 
 [Markdown](https://daringfireball.net/projects/markdown/) is a standard to [simplify writing](https://evanwill.github.io/_drafts/notes/writing-markdown.html) content for the web. 

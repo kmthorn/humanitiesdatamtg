@@ -2,7 +2,7 @@
 section_id: Week 10
 nav_order: 12
 title: About this Week
-topics: Week 10
+topics: Week 10, UO Libraries, Final Presentations
 ---
 
 [Markdown](https://daringfireball.net/projects/markdown/) is a standard to [simplify writing](https://evanwill.github.io/_drafts/notes/writing-markdown.html) content for the web. 

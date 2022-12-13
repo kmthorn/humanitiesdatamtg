@@ -2,7 +2,7 @@
 section_id: Week 5
 nav_order: 7
 title: About this Week
-topics: Week 5
+topics: Week 5, File Formats and Standards, File Obsolencense
 ---
 
 [Markdown](https://daringfireball.net/projects/markdown/) is a standard to [simplify writing](https://evanwill.github.io/_drafts/notes/writing-markdown.html) content for the web. 

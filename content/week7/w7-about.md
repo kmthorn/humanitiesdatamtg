@@ -2,7 +2,7 @@
 section_id: Week 7
 nav_order: 9
 title: About this Week
-topics: Week 7
+topics: Week 7, Resource Description, Cultural Inclusion
 ---
 
 [Markdown](https://daringfireball.net/projects/markdown/) is a standard to [simplify writing](https://evanwill.github.io/_drafts/notes/writing-markdown.html) content for the web. 

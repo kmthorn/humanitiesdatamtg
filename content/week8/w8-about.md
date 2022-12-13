@@ -2,7 +2,7 @@
 section_id: Week 8
 nav_order: 10
 title: About this Week
-topics: Week 8
+topics: Week 8, CollectionBuilder, Digital Platform Requirements
 ---
 
 [Markdown](https://daringfireball.net/projects/markdown/) is a standard to [simplify writing](https://evanwill.github.io/_drafts/notes/writing-markdown.html) content for the web. 

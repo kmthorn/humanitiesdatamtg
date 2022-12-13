@@ -3,7 +3,6 @@ section: Week 3
 section_id: Week 3
 nav_order: 2
 title: Readings
-topics: Week 3
 ---
 
 [Markdown](https://daringfireball.net/projects/markdown/) is a standard to [simplify writing](https://evanwill.github.io/_drafts/notes/writing-markdown.html) content for the web. 

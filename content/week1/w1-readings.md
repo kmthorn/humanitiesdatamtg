@@ -1,8 +1,8 @@
 ---
+section: Week 1
 section_id: Week 1
-nav_order: 3
-title: About this Week
-topics: Week 1
+nav_order: 2
+title: Readings
 ---
 
 [Markdown](https://daringfireball.net/projects/markdown/) is a standard to [simplify writing](https://evanwill.github.io/_drafts/notes/writing-markdown.html) content for the web. 

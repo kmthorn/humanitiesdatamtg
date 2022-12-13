@@ -2,7 +2,7 @@
 section_id: Week 4
 nav_order: 6
 title: About this Week
-topics: Week 4
+topics: Week 4, Copyright Law, Fair Use, Rights Statements, Creative Commons
 ---
 
 [Markdown](https://daringfireball.net/projects/markdown/) is a standard to [simplify writing](https://evanwill.github.io/_drafts/notes/writing-markdown.html) content for the web. 

@@ -10,7 +10,7 @@ This course is part of the University of Oregon Digital Humanities minor and Dat
 ## Course Description
 This course provides students with theoretical and practical experience in collecting, processing, archiving, and publishing humanities data (images, video, sound, text, maps, etc.) gathered from galleries, libraries, archives, and museums. With the goal of building thematic digital collections as researchers, students will learn digital methodologies focusing on the technical, legal, ethical, and social aspects of working with humanities research data throughout its curation lifecycle. This includes hands-on experience finding, assessing, organizing, and reformatting data; creating and remediating descriptive metadata; evaluating and determining copyright and licensing; writing a data management plan using the standards set by the National Endowment for the Humanities; and sharing thematic research digital collections using GitHub and the open-source platform CollectionBuilder.
 
-## Have questions about when the course is running or general ones about the class?
+## Have questions about when the course is running or general ones about the course?
 [Reach out to Kate Thornhill, Digital Scholarship Librarian at the University of Oregon.](mailto:kmthorn@uoregon.edu)
 
 {% include toc.html %}

@@ -1,17 +1,13 @@
 ---
-title: Lesson Template
+title: DSCI 350/LIB 350 - Humanities Research Data Management
 layout: lesson-content
 ---
 
-A minimal Jekyll theme with sidebar content nav for creating lesson and workshop websites using Markdown.
+This course is part of the University of Oregon Digital Humanities minor and Data Science Cultural Analytics Undergraduate Programs.
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="oregondigital-filingrecords.jpeg" alt="intro image here" caption="Woman filing records in a library or archives, https://oregondigital.org/catalog/oregondigital:df70ck373" width="75%" %}
 
-*Add your workshop abstract here!*
-
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
+This course provides students with theoretical and practical experience in collecting, processing, archiving, and publishing humanities data (images, video, sound, text, maps, etc.) gathered from galleries, libraries, archives, and museums. With the goal of building thematic digital collections as researchers, students will learn digital methodologies focusing on the technical, legal, ethical, and social aspects of working with humanities research data throughout its curation lifecycle. This includes hands-on experience finding, assessing, organizing, and reformatting data; creating and remediating descriptive metadata; evaluating and determining copyright and licensing; writing a data management plan using the standards set by the National Endowment for the Humanities; and sharing thematic research digital collections using GitHub and the open-source platform CollectionBuilder.
 
 {% include toc.html %}
 

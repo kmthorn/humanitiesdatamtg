@@ -1,7 +1,7 @@
 ---
 section_id: Week 7
 nav_order: 9
-title: About this Week
+title: About Week 7
 topics: Week 7, Resource Description, Cultural Inclusion
 ---
 

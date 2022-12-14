@@ -1,7 +1,7 @@
 ---
 section_id: Week 2
 nav_order: 4
-title: About this Week
+title: About Week 2
 topics: Week 2, Data Management Planning
 ---
 

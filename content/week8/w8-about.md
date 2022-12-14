@@ -1,7 +1,7 @@
 ---
 section_id: Week 8
 nav_order: 10
-title: About this Week
+title: About Week 8
 topics: Week 8, CollectionBuilder, Digital Platform Requirements
 ---
 

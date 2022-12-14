@@ -1,7 +1,7 @@
 ---
 section_id: Week 1
 nav_order: 3
-title: About this Week
+title: About Week 1
 topics: Week 1, Introduction, Open Data, Collaborative Research Infrastructure
 ---
 

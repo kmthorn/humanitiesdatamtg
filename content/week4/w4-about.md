@@ -1,7 +1,7 @@
 ---
 section_id: Week 4
 nav_order: 6
-title: About this Week
+title: About Week 4
 topics: Week 4, Copyright Law, Fair Use, Rights Statements, Creative Commons
 ---
 

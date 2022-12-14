@@ -3,9 +3,11 @@ nav_order: 2
 title: Assignment - Term-based Group Project
 ---
 
-# Planning, Development, Documenting, and Publishing a Publicly Available Thematic Research Digital Collection
+## Planning, Development, Documenting, and Publishing a Publicly Available Thematic Research Digital Collection
+<br/>
 
-## Project Breakdown and Due Dates
+### Project Breakdown and Due Dates
+
 
 | Grade Percentage | | Assignment |
 | ---------- | | ---------- |
@@ -17,8 +19,11 @@ title: Assignment - Term-based Group Project
 | 5% | | Finals Weeks - Final self-evaluation and reflection – Individual Assignment |
 | 5% | | Finals Weeks - Final group-evaluation and reflection – Individual Assignment |
 
-## Purpose
-### What are you going to make?
+<br/>
+### Purpose
+
+
+#### What are you going to make?
 Throughout the term, you will be working with a small group to gather, document, build, and publish a research digital collection that is thematically related to the State of Oregon. You are welcome to pick a topic of interest to students of history, cultural studies, science, education, political science, etc. Here is an example: [Environmental Justice Research Repository: Interconnected histories of racism, urban ecology, and environmental activism in Eugene, Oregon](https://learn-static.github.io/eng-470/)
 
 You are **required** to use objects that come from special collections and archives, museums, galleries, and libraries. We’re specifically looking to only use primary sources.
@@ -37,10 +42,10 @@ They include:
 
 Additionally, all group members will be required to submit self and group evaluations and reflections during the middle and end of the term. This is meant to be a way to assess yourself and peers and allow your instructor to give you and your group feedback that improves your work.
 
-## White are you completing this project? 
+### White are you completing this project? 
 This project is designed to provide all students with practical skills for curating and preserving research data when developing a thematic research digital collection. By completing this project, you will become experienced working with data as a humanist who does research using GLAMs. This group project is also meant to teach you about the methods and techniques that are required while building data-driven websites while using primary sources. This includes becoming well versed in operating cloud storage technologies, telecommunication apps, cataloging using metadata standards, remediating data entry, making judgement calls around United States copyright law, editing documents, audio, and visual resources, using open-source technologies, and archiving research data.
 
-## Why is this project relevant to your success after college?
+### Why is this project relevant to your success after college?
 Your project models real life experiences building digital collections as if you were curating and publishing as a data-driven information professional.  In fact, the steps and processes learned through this project are ones that you can find regularly at non-profit organizations, cultural heritage organizations, educational institutions, and at technology companies.
 So, if you someday hope to become a cultural heritage memory worker or see yourself working with digital media in any industry then you’re going to be prepared for a job that requires data organizing, sorting, describing, analyzing, documenting, archiving, and publishing. These professional job types include, but are not limited to:
 
@@ -51,7 +56,7 @@ So, if you someday hope to become a cultural heritage memory worker or see yours
 - Museum Curators
 - Researchers
 
-## Skills
+### Skills
 This project will allow you to practice the following skills:
 - Publish a digital collection using GitHub and CollectionBuilder
 - Write a data management plan using United States federal government requirements
@@ -63,7 +68,7 @@ This project will allow you to practice the following skills:
 - Evaluate cultural heritage objects for reuse in accordance with United States copyright law
 - Present and write about thematic research digital collections
 
-## Knowledge
+### Knowledge
 Additionally, this term-based project will help you:
 
 - Understand the principles of digital stewardship, digital curation, and digital preservation
@@ -74,8 +79,10 @@ Additionally, this term-based project will help you:
 - Know how to publish an open research dataset if one were to do so with the United States federal g overnment
 - Understand and interpret the foundations of United States copyright law
 
-## Task/Prompt
-### What do you need to do? 
+<br/>
+
+### Task/Prompt
+#### What do you need to do? 
 
 To complete this project successfully, you should:
 - Setup a collaborative digital research infrastructure using cloud-based and desktop apps, e.g., SharePoint, MS Teams, SharePoint Documents Library, Microsoft Office, GitHub, CollectionBuilder (Jekyll)
@@ -94,12 +101,15 @@ To complete this project successfully, you should:
     - Create and catalog objects using the class metadata application profile’s data standard and resource description requirements.
     - Use CollectionBuilder and GitHub to publish your digital collection, data management plan, and data documentation
 
-### How do you need to do it?
+
+
+#### How do you need to do it?
 All group members will be assigned a designated project role based on their interests and strengths. Everyone is expected to contribute and do their part. 
 
 Groups will have plenty of opportunities to meet during class but need to make time to get together outside of it. Staying on top of deadlines and keeping up with lectures and labs is key. Please make sure to establish communication norms for your group. This includes setting a regular scheduled weekly time to meet outside of class and making sure your research infrastructure includes communication channels like online chat, Zoom, e-mail, or other modalities that work for your team to stay in contact and on task with each other.
 
 **Group Project Roles & Responsibilities**
+
 
 | Role | | Responsibilities/Activities |
 | ---------- | | ---------- |
@@ -109,11 +119,11 @@ Groups will have plenty of opportunities to meet during class but need to make t
 | | | |
 | Object Preservation Manager | | Oversees the organization and management of the project’s storage space and documents folder and file structures; Coordinates how objects are added to the project’s storage space; Leads digital file reformatting as needed using appropriate apps; Establishes the collection’s file naming standard and required preservation formats; Makes final decision about what objects can go into the collection based on file format requirements set by CollectionBuilder |
 | | | |
-| Object Preservation Manager | | Oversees the organization and management of the project’s storage space and documents folder and file structures; Coordinates how objects are added to the project’s storage space; Leads digital file reformatting as needed using appropriate apps; Establishes the collection’s file naming standard and required preservation formats; Makes final decision about what objects can go into the collection based on file format requirements set by CollectionBuilder |
-| | | |
 | Metadata Manager | | Coordinates all object cataloging; Ensures all objects follow the project’s metadata application profile; Leads metadata quality review; Makes final decisions about how objects are described; Standardizes all data entry based on CollectionBuilder’s metadata requirements |
 | | | |
 | Repository Manager | | Leads platform implementation communications with team; Works with the metadata manager and object preservation manager to ensure the collection can be uploaded to CollectionBuilder by following the MAP and file format requirements; Adds collection description and DMP and documentation to GitHub repository; Validate and troubleshoots issues with adding collection to CollectionBuilder; Assists the project manager with finalizing the DMP and data documentation; Takes notes at all group project meetings |
+
+
 
 **Group Work Norms**
 - Everyone will be assigned to one group for the term and build a single thematic research digital collection.
@@ -125,8 +135,10 @@ Groups will have plenty of opportunities to meet during class but need to make t
 - Group members are expected to take notes during all group project meetings. These notes should be kept in your group project folder and be available to everyone in the group.
 - You will be graded using this rubric [Donaldson, Mary, and Rosie Higman. 2018. “Arts and Humanities Research Council Data Management Plan Rubric.” November 30.](https://doi.org/10.5281/zenodo.1745533) and following the National Endowment for the Humanities DMP template:  [NEH’s Data Management Plan Requirements](https://www.neh.gov/sites/default/files/inline-files/Data%20Management%20Plans%2C%202019.pdf)
 
-## Criteria for Success
-### How do you know that you are on the right track to success? How will you know what you are doing is what is expected of you?
+<br/>
+
+### Criteria for Success
+#### How do you know that you are on the right track to success? How will you know what you are doing is what is expected of you?
 
 This project is structured with your success in mind. Rather than one big deliverable at the end, the project is structured with assignment milestones and in-class learning activities to keep you on track. This includes your group receiving continuous feedback. See the Project Breakdown and Due Dates section and review the week-by-week course content for these details. It is asked that as you move through the term, please keep in touch with your instructor early and often if there are concerns about your ability to complete the project successfully.
 
@@ -134,7 +146,7 @@ This project is structured with your success in mind. Rather than one big delive
 
 Not all data management plans are going to be structured the same way because disciplines are different. However, at the core, they all aim to meet the same goals, make decisions related to curation and preservation. We will be using the National Endowment for Humanities data management, which requires you to answer curation questions related to a humanities research project. You also have access to data management plans created by the University of Oregon Libraries designed by professional digital curators. Examples will be provided during class and will be available on Canvas. You are also welcome to review examples found publicly via the Data Management Plan (DMP) Tool.
 
-### Rubrics
+#### Rubrics
 All rubrics will be shared on Canvas and in-class when assignments are introduced.
 
 *Project Progress Report*

@@ -1,7 +1,7 @@
 ---
 section_id: Week 6
 nav_order: 8
-title: About this Week
+title: About Week 6
 topics: Week 6, Metadata Foundations, Cataloging
 ---
 

@@ -1,7 +1,7 @@
 ---
 section_id: Week 10
 nav_order: 12
-title: About this Week
+title: About Week 10
 topics: Week 10, UO Libraries, Final Presentations
 ---
 

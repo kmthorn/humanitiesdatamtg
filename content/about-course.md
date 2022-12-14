@@ -86,15 +86,15 @@ All course readings are publicly available or can be accessed through the UO Lib
 
 ## What will you be graded on?
 
-| Percentage | | Assignment |
+| Grade Percentage | | Assignment |
 | ---------- | | ---------- |
-| 15% | | Project Progress Report – Group Assignment |
-| 30% | | Data Management Plan and Data Documentation and Dataset – Group Assignment |
-| 20% | | Final Presentation: Publicly Available Thematic Research Digital - Group Assignment |
-| 5% | | Mid-term self-evaluation and reflection – Individual Assignment  |
-| 5% | | Final self-evaluation and reflection – Individual Assignment |
-| 5% | | Mid-term group-evaluation and reflection – Individual Assignment |
-| 5% | | Final group-evaluation and reflection – Individual Assignment |
+| 15% | | Week 5 - Project Progress Report – Group Assignment |
+| 5% | | Week 5 - Mid-term self-evaluation and reflection – Individual Assignment |
+| 5% | | Week 5 - Mid-term group-evaluation and reflection – Individual Assignment |
+| 20% | | Week 10 - Final Presentation: Publicly Available Thematic Research Digital Collection Presentation – Group Assignment |
+| 30% | | Finals Weeks - Data Management Plan and Data Documentation and Dataset – Group Assignment |
+| 5% | | Finals Weeks - Final self-evaluation and reflection – Individual Assignment |
+| 5% | | Finals Weeks - Final group-evaluation and reflection – Individual Assignment |
 | 15% | | Class Participation - Individual | 
 
 <br/>

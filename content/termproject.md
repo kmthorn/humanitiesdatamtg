@@ -1,10 +1,13 @@
 ---
 nav_order: 2
 title: Assignment - Term-based Group Project
+topic: assignment, group project
 ---
 
 ## Planning, Development, Documenting, and Publishing a Publicly Available Thematic Research Digital Collection
 <br/>
+
+📂 **Download the PDF! Assignment: Term-based Group Project** NEED TO ADD!!!!!
 
 ### Project Breakdown and Due Dates
 

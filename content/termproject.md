@@ -29,13 +29,13 @@ topic: assignment, group project
 #### What are you going to make?
 Throughout the term, you will be working with a small group to gather, document, build, and publish a research digital collection that is thematically related to the State of Oregon. You are welcome to pick a topic of interest to students of history, cultural studies, science, education, political science, etc. Here is an example: [Environmental Justice Research Repository: Interconnected histories of racism, urban ecology, and environmental activism in Eugene, Oregon](https://learn-static.github.io/eng-470/)
 
-You are **required** to use objects that come from special collections and archives, museums, galleries, and libraries. We’re specifically looking to only use primary sources.
+You are **required** to use objects that come from GLAMs (galleries, libraries, archives, and museums). We’re specifically looking to only use primary sources for this project.
 
-Think of your collection being data that will be used by researchers, GLAM professionals, and data experts interested in observing and interpreting history to learn something new or make connections to the present day. Many people could want to use your collection to create timelines, digital narrative maps, eBooks, book companion websites, digital exhibits, and more. Before those people can use your collection as data, all historic objects need digital curation and preservation actions applied to them. Something to note, digital curation and preservation actions can also be referred to as data curation and preservation.
+Think of your collection being data that will be used by researchers, GLAM professionals, and data experts interested in observing and interpreting history to learn something new or make connections to the present day. Many people could want to use your collection to create timelines, digital narrative maps, eBooks, book companion websites, digital exhibits, and more. Before those people can use your collection as data, all historic objects need digital curation and preservation actions applied to them, also referred to as data curation and preservation.
 
-These actions include gathering objects based on a topic and given context; standardizing and remediating data according to information professional best practices and guidelines; objects copyright and licensing evaluated for reuse; structuring data for computer interoperability; reviewing data for quality and security and privacy; backing-up and archiving data to prevent loss; and publishing objects contextualized and described for public access. Most importantly all actions decisions need documentation. This is because for people to reuse your collection as data, they need to know why objects were brought together and formed and intellectually described and arranged as a digital collection.
+These actions include gathering objects based on a topic and given context; standardizing and remediating data according to information professional best practices and guidelines; evaluating the copyright and licensing of objects for reuse; structuring data for computer interoperability; reviewing data for quality, security, and privacy; backing-up and archiving data to prevent loss; and publishing objects contextualized and described for public access. Most importantly, all actions and decisions need to be documented. This is because for people to reuse your collection as data, they need to know why objects were brought together and intellectually described and arranged as a digital collection.
 
-This term-project is one that is scaffolded across 10 weeks. There are 4 aspects to the project that you will be graded on as a group. While curating your collection, your term-based group project will cumulate through required assignments. 
+This term-project is one that is scaffolded across 10 weeks. While curating your collection, your term-based group project will cumulate through required assignments. There are 4 aspects to the project that you will be graded on as a group.
 
 They include:
 1.	Project Progress Report
@@ -46,11 +46,13 @@ They include:
 Additionally, all group members will be required to submit self and group evaluations and reflections during the middle and end of the term. This is meant to be a way to assess yourself and peers and allow your instructor to give you and your group feedback that improves your work.
 
 ### White are you completing this project? 
-This project is designed to provide all students with practical skills for curating and preserving research data when developing a thematic research digital collection. By completing this project, you will become experienced working with data as a humanist who does research using GLAMs. This group project is also meant to teach you about the methods and techniques that are required while building data-driven websites while using primary sources. This includes becoming well versed in operating cloud storage technologies, telecommunication apps, cataloging using metadata standards, remediating data entry, making judgement calls around United States copyright law, editing documents, audio, and visual resources, using open-source technologies, and archiving research data.
+This project is designed to provide all students with practical skills for curating and preserving research data when developing a thematic research digital collection. By completing this project, you will become experienced working with data as a humanist who does research using GLAMs. This group project is also meant to teach you about methods and techniques that are required while developing websites that are focused on bringing primary sources together for someone else to freely reuse and build upon. This includes becoming well versed in operating cloud storage technologies, telecommunication apps, cataloging objects using metadata standards, remediating, structuring, and normalizing data entry, making judgement calls around United States copyright law, editing documents, audio, and visual resources, using open-source technologies, and finding and selecting primary sources coming from different online spaces.
 
 ### Why is this project relevant to your success after college?
-Your project models real life experiences building digital collections as if you were curating and publishing as a data-driven information professional.  In fact, the steps and processes learned through this project are ones that you can find regularly at non-profit organizations, cultural heritage organizations, educational institutions, and at technology companies.
-So, if you someday hope to become a cultural heritage memory worker or see yourself working with digital media in any industry then you’re going to be prepared for a job that requires data organizing, sorting, describing, analyzing, documenting, archiving, and publishing. These professional job types include, but are not limited to:
+Your project models real life experiences building digital collections as if you were curating and publishing like a data-driven information professional.  In fact, the steps and processes learned through this project are ones that you can find regularly at non-profit organizations, cultural heritage organizations, educational institutions, and technology companies.
+
+So, if you someday hope to become a cultural heritage memory worker or see yourself working with digital media and data in any industry then you will be foundationally prepared for a job that requires data organizing, sorting, describing, analyzing, documenting, archiving, and publishing. These professional job types include, but are not limited to:
+
 
 - Data Analysts
 - Data Coordinators or Managers
@@ -141,7 +143,7 @@ Groups will have plenty of opportunities to meet during class but need to make t
 <br/>
 
 ### Criteria for Success
-#### How do you know that you are on the right track to success? How will you know what you are doing is what is expected of you?
+#### How do you know that you are on the right track to success?
 
 This project is structured with your success in mind. Rather than one big deliverable at the end, the project is structured with assignment milestones and in-class learning activities to keep you on track. This includes your group receiving continuous feedback. See the Project Breakdown and Due Dates section and review the week-by-week course content for these details. It is asked that as you move through the term, please keep in touch with your instructor early and often if there are concerns about your ability to complete the project successfully.
 
@@ -152,6 +154,7 @@ Not all data management plans are going to be structured the same way because di
 #### Rubrics
 All rubrics will be shared on Canvas and in-class when assignments are introduced.
 
+#### Project Components
 *Project Progress Report*
 Begin writing a data management plan using the knowledge you’ve acquired between Week 1 – 5. Don’t worry if you can’t answer all the questions. Try doing so using the NEH DMP (using the DMP tool) and the Arts and Humanities Research Council Data Management Plan Rubric.  Details for what to include and how you will be graded can be found on Canvas.
 

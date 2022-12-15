@@ -8,6 +8,7 @@ topics: Week 10, UO Libraries, Final Presentations
 
 ### Prepare for class 
 - Complete your final group presentation
+- Present your final group presentation
 - **SUBMISSION! Sunday at midnight before Finals Week**
 
 | Grade Percentage | | Assignment |

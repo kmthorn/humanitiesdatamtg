@@ -1,0 +1,19 @@
+---
+section: Week 8
+section_id: Week 8
+nav_order: 2
+title: Week 8 Readings
+---
+
+| READING                                                                                                                                                                                                                                                                                                   | MODALITY | PAGES |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----- |
+| [What is a CSV file?](https://www.lifewire.com/csv-file-2622708)                                                                                                                                                                                                                                           | text     | 3     |
+| [Definition: Encoding and Decoding by Andrew Zola, TechTarget.com](https://www.techtarget.com/searchnetworking/definition/encoding-and-decoding)                                                                                                                                                           | text     | 3     |
+| [Import or export text (.txt or .csv) files](https://support.microsoft.com/en-us/office/import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba#:~:text=Export%20data%20to%20a%20text%20file%20by%20saving%20it&text=Go%20to%20File%20%3E%20Save%20As,or%20CSV%20(Comma%20delimited).) | text     | 0.5   |
+| [The Ultimate Guide to Data Cleaning by Omar Elgabry](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4)                                                                                                                                                                     | text     | 10    |
+| [Presentation on How Digital Humanists Use GitHub, Digital Humanities 2016 conference, presented by Lisa Spiro and Sean Morey Smith](https://digitalscholarship.wordpress.com/2016/07/20/presentation-on-how-digital-humanists-use-github/)                                                                | text     | 6     |
+| [Collection Builder - Metadata and Data Dictionary](https://collectionbuilder.github.io/cb-docs/docs/metadata/)                                                                                                                                                                                            | text     | 12    |
+| [CollectionBuilder - About](https://collectionbuilder.github.io/about.html)                                                                                                                                                                                                                                | text     | 5     |
+| [Muskuy Yachay Archives: Materials related to Kichwa-language muskuy narratives of the Runa of Ecuador](https://lwcarney.github.io/muskuyarchive/)                                                                                                                                                         | text     | 5     |
+| [Chocolates Juncosa: Collection of chromo trade cards depicting the Cuban War of Independence and the Spanish-American War (1895-1898)](https://laurenpv85.github.io/Unexpected-Collections/)                                                                                                              | text     | 5     |
+| [Environmental Justice Research Repository: Interconnected histories of racism, urban ecology, and environmental activism in Eugene, Oregon](https://learn-static.github.io/eng-470/)                                                                                                                      | text     | 5     |

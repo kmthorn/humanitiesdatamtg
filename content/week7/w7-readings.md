@@ -1,0 +1,15 @@
+---
+section: Week 7
+section_id: Week 7
+nav_order: 2
+title: Week 7 Readings
+---
+
+| READING                                                                                                                                                                                                                                                                                                                                                           | MODALITY | PAGES |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----- |
+| [“Controversies in the Library of Congress Subject Headings (LCSH): The Case of Illegal Aliens.” Librarianship Studies and Information Technology Blog. Accessed November 3, 2022. https://www.librarianshipstudies.com/2020/04/controversies-in-library-of-congress.html](https://www.librarianshipstudies.com/2020/04/controversies-in-library-of-congress.html) | text     | 9     |
+| [Drabinski, Emily. 2013. “Queering the Catalog: Queer Theory and the Politics of Correction.” Publications and Research from CUNY Graduate Center, 2013. https://academicworks.cuny.edu/gc_pubs/577.](https://academicworks.cuny.edu/gc_pubs/577)                                                                                                                  | text     | 19    |
+| Resource Description: Identification and Responsibility – Chapter 4 from Metadata for Digital Collections (access via on Canvas or course reserve at the Knight Library)                                                                                                                                                                                          | text     | 6     |
+| Resource Description: Content and Relationship Elements – Chapter 5 from Metadata for Digital Collections (access via on Canvas or course reserve at the Knight Library)                                                                                                                                                                                          | text     | 7     |
+| [The Trans Metadata Collective, Burns, Jasmine, Cronquist, Michelle, Huang, Jackson, Murphy, Devon, Rawson, K.J., Schaefer, Beck, Simons, Jamie, Watson, Brian M., & Williams, Adrian. (2022). Metadata Best Practices for Trans and Gender Diverse Resources (1.0). Zenodo. https://doi.org/10.5281/zenodo.6686841](https://doi.org/10.5281/zenodo.6686841)       | text     | 36    |
+| [Archives for Black Lives in Philadelphia: Anti-Racist Description and Resources by Archives for Black Lives in Philadelphia’s Anti-Racist Description Working Group](https://archivesforblacklives.files.wordpress.com/2020/11/ardr_202010.pdf)                                                                                                                   | text     | 34    |

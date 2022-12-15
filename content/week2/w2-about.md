@@ -4,49 +4,19 @@ nav_order: 4
 title: About Week 2
 topics: Week 2, Data Management Planning
 ---
+## Introductions to Data Management Plans
 
-[Markdown](https://daringfireball.net/projects/markdown/) is a standard to [simplify writing](https://evanwill.github.io/_drafts/notes/writing-markdown.html) content for the web. 
-[GitHub markdown flavor](https://help.github.com/articles/basic-writing-and-formatting-syntax/) can be used any where on GitHub and in Jekyll.
-The basics are intuitive, you can learn in about a minute!
-See [Markdown in a Minute](https://evanwill.github.io/_drafts/notes/markdown-minute.html) to get started.
----
-nav_order: 1
-title: Introduction
----
+### Prepare for Class
+- Read the required readings
+- Review data management plan example (access via Canvas)
+- Come to class with ideas for your group’s thematic research topic
+- Review the term-long group project requirements and come to class with questions
 
-Learn-Static Lesson Template is a Jekyll project to create a simple lesson or workshop website, with a [Bootstrap](https://getbootstrap.com/)-based theme, designed for hosting on [GitHub Pages](https://pages.github.com/).
+### What is Due? 
+- Group Project
+    - Collaborative research infrastructure is setup and shared with all teammates
+    - Everyone has registered for a DMP account. The DMP Tool – How to Register an Account through the UO Libraries
 
-It features a sidebar navigation providing clear structure for step by step content.
-The sidebar nav supports pages nested into sections to help organize your lesson content. 
-
-All content is written using basic Markdown, making it simple to write, edit, and reuse lesson materials.
-
-To use Lesson Template to create your own website--> make a copy and replace the template content with your own!
-
-### Why?
-
-Rather than making slides for a workshop, why not make a website? 
-It's easier to write, access, share, and reuse. 
-GitHub and GitHub Pages makes this relatively straightforward.
-
-Writing content in this simple, reuseable format makes for a better [Open Educational Resource](https://en.wikipedia.org/wiki/Open_educational_resources) since anyone can make a copy and adapt!
-
-## GitHub Pages 
-
-One amazingly useful GitHub feature is [GitHub Pages](https://guides.github.com/features/pages/).
-It provides free static web hosting from any repository.
-Gh-pages is intended to host relatively simple sites for your GitHub portfolio, project, or documentation.
-Because it is free and a valuable transferable skill, this is a great option for teaching and learning.
-
-Many organizations are using GitHub to collaboratively create and publish public workshop websites. 
-For example: 
-
-- [Programming Historian](http://programminghistorian.org/)
-- [Software Carpentry](https://software-carpentry.org/), [Data Carpentry](http://www.datacarpentry.org/), [Library Carpentry](https://librarycarpentry.org/)
-- this site!
-
-{% capture text %}Note:
-There are *soft* limits and guidelines for gh-pages usage: sites should be < 1GB, use < 100GB bandwidth per month, and make < 10 builds per hour.
-If your site exceeds these quotas, GitHub will send you a notice asking you to modify the repository.
-All content must follow the [community guidelines](https://help.github.com/articles/github-community-guidelines/), e.g. no violence, obscene sex, or illegal stuff.{% endcapture %}
-{% include alert.html text=text color=secondary %}
+### What will be covered?
+- Defining what is research data curation and preservation; discuss the various aspects of data curation and preservation; discuss why data management is important for humanities researchers
+- Getting started with making a data management plan using the DMP Tool; review of NEH (National Endorsement for the Humanities) requirements for a DMP and how to engage with each part, group project meeting – finalizing research topic.

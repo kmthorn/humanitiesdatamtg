@@ -4,49 +4,16 @@ nav_order: 9
 title: About Week 7
 topics: Week 7, Resource Description, Cultural Inclusion
 ---
+## Metadata for Digital Collections: Diving Deeper into Resource Description and Metadata Issues and Challenges
 
-[Markdown](https://daringfireball.net/projects/markdown/) is a standard to [simplify writing](https://evanwill.github.io/_drafts/notes/writing-markdown.html) content for the web. 
-[GitHub markdown flavor](https://help.github.com/articles/basic-writing-and-formatting-syntax/) can be used any where on GitHub and in Jekyll.
-The basics are intuitive, you can learn in about a minute!
-See [Markdown in a Minute](https://evanwill.github.io/_drafts/notes/markdown-minute.html) to get started.
----
-nav_order: 1
-title: Introduction
----
+### Prepare for Class
+- Read required readings
+- Review the class metadata application profile
+- You must bring your objects and metadata to work with during the lab
 
-Learn-Static Lesson Template is a Jekyll project to create a simple lesson or workshop website, with a [Bootstrap](https://getbootstrap.com/)-based theme, designed for hosting on [GitHub Pages](https://pages.github.com/).
+### What is Due?
+- Group Project: Resource descriptions and controlled vocabularies for all objects must be ready for you to remediate
 
-It features a sidebar navigation providing clear structure for step by step content.
-The sidebar nav supports pages nested into sections to help organize your lesson content. 
-
-All content is written using basic Markdown, making it simple to write, edit, and reuse lesson materials.
-
-To use Lesson Template to create your own website--> make a copy and replace the template content with your own!
-
-### Why?
-
-Rather than making slides for a workshop, why not make a website? 
-It's easier to write, access, share, and reuse. 
-GitHub and GitHub Pages makes this relatively straightforward.
-
-Writing content in this simple, reuseable format makes for a better [Open Educational Resource](https://en.wikipedia.org/wiki/Open_educational_resources) since anyone can make a copy and adapt!
-
-## GitHub Pages 
-
-One amazingly useful GitHub feature is [GitHub Pages](https://guides.github.com/features/pages/).
-It provides free static web hosting from any repository.
-Gh-pages is intended to host relatively simple sites for your GitHub portfolio, project, or documentation.
-Because it is free and a valuable transferable skill, this is a great option for teaching and learning.
-
-Many organizations are using GitHub to collaboratively create and publish public workshop websites. 
-For example: 
-
-- [Programming Historian](http://programminghistorian.org/)
-- [Software Carpentry](https://software-carpentry.org/), [Data Carpentry](http://www.datacarpentry.org/), [Library Carpentry](https://librarycarpentry.org/)
-- this site!
-
-{% capture text %}Note:
-There are *soft* limits and guidelines for gh-pages usage: sites should be < 1GB, use < 100GB bandwidth per month, and make < 10 builds per hour.
-If your site exceeds these quotas, GitHub will send you a notice asking you to modify the repository.
-All content must follow the [community guidelines](https://help.github.com/articles/github-community-guidelines/), e.g. no violence, obscene sex, or illegal stuff.{% endcapture %}
-{% include alert.html text=text color=secondary %}
+## What will be covered?
+- Continue lecture and discussion from Week 6, introduction to challenges with resource description,
+- Creating a controlled vocabulary for your digital collection, remediating any object resource descriptions, group project meeting
